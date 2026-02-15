@@ -158,8 +158,4 @@ Modular architecture
 Harsha Pasunuru
 AI & Software Engineering Enthusiast
 
-✅ Final Result
-
-One topic in → One complete video out.
-Fully automated. No manual intervention.
 
